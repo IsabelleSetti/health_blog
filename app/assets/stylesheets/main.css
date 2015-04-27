@@ -132,3 +132,7 @@ footer ul {
 	margin-left: 0;
 	padding-left: 0;
 }
+
+td {
+	vertical-align: top;
+}
